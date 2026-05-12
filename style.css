@@ -1,0 +1,58 @@
+h1{
+    color: #669bbc;
+    text-align: center;
+    font-size: 72px;
+      font-family: "Instrument Serif", serif;
+
+}
+h2{
+    font-size: 32px;
+}
+body{
+    background-color: #003049;
+  font-family: "Geist", sans-serif;
+}
+h2,p{
+    color: white;
+    text-align: center;
+}
+img{
+    width: 250px;
+    height: 300px;
+    object-fit: cover;
+}
+p{
+        text-align: left;
+}
+a{
+    color: white;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+}
+a :hover{
+    color: rgb(245, 10, 10);
+}
+.gallery{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 32px;
+}
+h3{
+    color: white;
+}
+.btn{
+    background-color: red;
+    padding: 6px 12px;
+    border-radius: 8px;
+    font-size: 25px;
+    text-align: center;
+    font-family: "Oi", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.menu{
+    display: flex;
+    justify-content: center;
+
+}
